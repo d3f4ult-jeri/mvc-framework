@@ -5,3 +5,4 @@ A simple and easy to understand MVC skeleton application. Perfect for quickly bu
 - Routing
 - Controller
 - View
+- Model
