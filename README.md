@@ -18,9 +18,9 @@ By default, a URL has a one-to-one relationship to the Controller and Method cal
  
   ```
   jframework.com/pages/1/
-  jframework.com/pages/1/
-  jframework.com/pages/1/
-  jframework.com/pages/1/
+  jframework.com/pages/2/
+  jframework.com/pages/3/
+  jframework.com/pages/4/
   ```
 **NOTE**: it is not a requirement that you pass all parameters in the URL. You can create URL routes having only a controller/method/ pattern and provide data via HTTP POST, for example, coming from a form.
 
